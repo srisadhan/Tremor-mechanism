@@ -1,0 +1,8 @@
+prefix=/home/srisadha/ros/tremor_mech/install
+
+Name: weiss_kms40
+Description: Description of weiss_kms40
+Version: 0.0.0
+Cflags: -I/home/srisadha/ros/tremor_mech/install/include -I/usr/include
+Libs: -L/home/srisadha/ros/tremor_mech/install/lib /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_iostreams.so /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_regex.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libpthread.so
+Requires: geometry_msgs roscpp std_srvs

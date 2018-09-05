@@ -1,0 +1,8 @@
+prefix=/home/srisadha/ros/tremor_mech/install
+
+Name: dynamixel_postion_control
+Description: Description of dynamixel_postion_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/srisadha/ros/tremor_mech/install/lib 
+Requires: 

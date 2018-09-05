@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libweiss_kms40.so -o /home/srisadha/ros/tremor_mech/devel/lib/libweiss_kms40.so CMakeFiles/weiss_kms40.dir/include/Phidget_Common/PhidgetHelperFunctions.c.o 

@@ -1,0 +1,2 @@
+talk_lis:weiss_kms40:weiss_kms40_emulator
+-DCATKIN_DEVEL_PREFIX=/home/srisadha/ros/tremor_mech/devel -DCMAKE_INSTALL_PREFIX=/home/srisadha/ros/tremor_mech/install -G Unix Makefiles

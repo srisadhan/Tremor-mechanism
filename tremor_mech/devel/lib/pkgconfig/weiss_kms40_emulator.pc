@@ -1,0 +1,8 @@
+prefix=/home/srisadha/ros/tremor_mech/devel
+
+Name: weiss_kms40_emulator
+Description: Description of weiss_kms40_emulator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/srisadha/ros/tremor_mech/devel/lib 
+Requires: 

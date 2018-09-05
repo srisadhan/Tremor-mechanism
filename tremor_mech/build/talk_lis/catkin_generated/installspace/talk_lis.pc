@@ -1,0 +1,8 @@
+prefix=/home/srisadha/ros/tremor_mech/install
+
+Name: talk_lis
+Description: Description of talk_lis
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/srisadha/ros/tremor_mech/install/lib 
+Requires: 

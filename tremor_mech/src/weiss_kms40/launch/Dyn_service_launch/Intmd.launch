@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node pkg="weiss_kms40" type="timed_roslaunch.sh" args="10 weiss_kms40 1.launch"
+    name="set1" output="screen">
+  </node>
+
+  <node pkg="weiss_kms40" type="timed_roslaunch.sh" args="20 weiss_kms40 2.launch"
+    name="set2" output="screen">
+  </node>
+
+
+  <node pkg="weiss_kms40" type="timed_roslaunch.sh" args="30 weiss_kms40 3.launch"
+    name="set3" output="screen">
+  </node>
+
+
+  <node pkg="weiss_kms40" type="timed_roslaunch.sh" args="40 weiss_kms40 4.launch"
+    name="set4" output="screen">
+  </node>
+
+
+  <node pkg="weiss_kms40" type="timed_roslaunch.sh" args="50 weiss_kms40 5.launch"
+    name="set5" output="screen">
+  </node>
+
+
+  <node pkg="weiss_kms40" type="timed_roslaunch.sh" args="60 weiss_kms40 6.launch"
+    name="set6" output="screen">
+  </node>
+
+</launch>

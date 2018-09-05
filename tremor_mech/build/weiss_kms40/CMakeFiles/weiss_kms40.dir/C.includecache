@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/srisadha/ros/tremor_mech/src/weiss_kms40/include/Phidget_Common/PhidgetHelperFunctions.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+phidget22.h
+-
+PhidgetHelperFunctions.h
+/home/srisadha/ros/tremor_mech/src/weiss_kms40/include/Phidget_Common/PhidgetHelperFunctions.h
+
+/home/srisadha/ros/tremor_mech/src/weiss_kms40/include/Phidget_Common/PhidgetHelperFunctions.h
+stdio.h
+-
+stdlib.h
+-
+phidget22.h
+-
+windows.h
+-
+unistd.h
+-
+
